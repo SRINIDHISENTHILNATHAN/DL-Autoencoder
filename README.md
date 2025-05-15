@@ -14,6 +14,8 @@ Include the neural network model diagram.
 
 Write your own steps
 
+
+
 ### STEP 2: 
 
 
